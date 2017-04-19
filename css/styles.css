@@ -1,0 +1,37 @@
+#Banner{
+  width: 100%;
+  height: 400px;
+  background: url{('../images/banner/cake.jpg') no-repeat};
+}
+.fa-envelope-o{
+  color:rgb(224, 18, 105);
+}
+header{overflow: hidden;}
+#logo{width: 200px;
+      height:120px;
+      background: url{('../images/logo.jpg') no-repeat;
+      float: left;
+    }
+nav>ol>li{
+  width: 120px;
+  height: 40px;
+  float: left;
+  font-size: 20px;
+  font-family: "微軟正黑體";
+}
+#document{
+  max-width: 1000px;
+  maegin:auto
+}
+nav{
+  float:right;
+  margin-top: 80px;
+}
+.left{
+  width: 500px;
+  float:left;
+}
+.light{
+  width: 500px;
+  float:left;
+}
